@@ -3,7 +3,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath("org.springframework.boot:spring-boot-gradle-plugin:2.8.5")
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:2.8.6")
         classpath('se.transmode.gradle:gradle-docker:1.2')
     }
 }
