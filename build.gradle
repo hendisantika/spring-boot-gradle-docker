@@ -16,7 +16,7 @@ targetCompatibility = 21
 
 dependencies {
     // https://mvnrepository.com/artifact/com.palantir.gradle.docker/gradle-docker
-    implementation 'com.palantir.gradle.docker:gradle-docker:0.36.0'
+    implementation 'com.palantir.gradle.docker:gradle-docker:0.37.0'
     implementation 'org.springframework.boot:spring-boot-starter-web'
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
     runtimeOnly 'com.mysql:mysql-connector-j'
